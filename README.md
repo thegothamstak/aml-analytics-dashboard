@@ -25,6 +25,10 @@ React 19 | Bootstrap 5 | amCharts 4 | React Router DOM
 
 Build with `npm run build` and deploy on Netlify or similar.
 
+## Deployed on
+
+https://amldashboard.netlify.app/
+
 ---
 
 Created by Shripad
